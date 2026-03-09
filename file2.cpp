@@ -12,3 +12,10 @@ string Status_Lulus(float r){
         return "gagal";
 }
 
+string Status_Lulus2(float r){
+    if (r >= 60)
+        return "Lolos";
+    else
+        return "gagal";
+}
+
