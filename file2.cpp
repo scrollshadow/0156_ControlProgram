@@ -26,7 +26,7 @@ int main(){
     cout <<"Masukkan nilai bahasa Inggris = ";
     cin >> nilBI;
     cout <<"Masukkan nilai Matematika = ";
-    cin >> nilMT
+    cin >> nilMT;
 
     //rerata = (nilBI+nilMT)/2;
     //if (rerata >= 60)
@@ -37,5 +37,5 @@ int main(){
     //status = status_lulus(rerata);
 
     cout << "status kelulusan = "<<Status_Lulus(rerata)<<" ,Dengan ini nilai rerata = "<<rerata<<endl;
-    
+
 }
