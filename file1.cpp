@@ -7,5 +7,10 @@ int main(){
     srand(time(0));
     x - rand() % 10;
 
-    i
+    if (x ==5){
+        x = x+1;
+        cout<<"Nilai x sudah dikoreksi mwnjadi : "<<x<<endl;
+    }
+
+    cout << "Bilangan diberikan = "<<x;
 }
