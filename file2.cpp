@@ -19,3 +19,12 @@ string Status_Lulus2(float r){
         return "gagal";
 }
 
+int main(){
+    float nilBI,nilMT,rerata;
+    string status;
+
+    cout <<"Masukkan nilai bahasa Inggris = ";
+    cin >> nilBI;
+    cout <<"Masukkan nilai Matematika = ";
+    cin >> nilMT
+}
